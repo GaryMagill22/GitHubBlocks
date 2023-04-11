@@ -1,0 +1,53 @@
+
+#top {
+    background-color: peru;
+    margin: 20px;
+    justify-content: space-evenly;
+    width: 950px;
+    display: flex;
+    
+}
+
+#middle {
+    background-color: lightpink;
+    justify-content: space-evenly;
+    margin: 20px;
+    width: 950px;
+    display: flex;
+}
+#bottom {
+    background-color: grey;
+    margin: 20px;
+    justify-content: space-evenly;
+    width: 950px;
+    display: flex;
+
+}
+
+.dunetocat, .spidercat, .octocat {
+    display: inline-flex;
+    height: 200px;
+    display: flex;
+    background-color:bisque;
+    
+}
+
+
+
+.daftcat, .filmcat {
+    margin: 0px;
+    padding: 0px;
+    display: inline-flex;
+    height: 200px;
+    background-color:aqua;
+}
+
+
+.robocat, .pupcat, .mariocat {
+    display: inline-flex;
+    height: 200px;
+    margin: 0px;
+    padding: 0px;
+    background-color:grey;
+
+}
